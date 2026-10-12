@@ -140,12 +140,6 @@ Open `http://localhost:5173` in your web browser.
     │   └── package.json
     └── README.md
 
-## Author
-
-Akash Deep \
-Email: contact.akashdeep023@gmail.com \
-LinkedIn : https://www.linkedin.com/in/akashdeep023/
-
 ## Images
 **Profile**
 ![Macbook-Air-localhost](https://github.com/user-attachments/assets/7ea906d8-10a9-4e79-a3aa-46f45dd328bb)
